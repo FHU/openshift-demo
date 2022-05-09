@@ -1,2 +1,2 @@
-# openshift-demo
-Demo with a simple frontend and backend to deploy in openshift
+# frontend-backend-demo
+Simple Demo frontend/backend
